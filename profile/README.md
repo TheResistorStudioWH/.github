@@ -43,6 +43,6 @@ Github自带的一个功能，就是在你将代码提交到仓库之后执行�
 ## Git怎么用
 Git功能太多，我也不是很理解，不过我会尽量写简单点，让大家都有个基本的认识。
 
-### 关于
-## 此ReadMe从闪电工作室搬运!
+## 关于
+### 此ReadMe从闪电工作室搬运!
 点击前往：[Git基操](https://github.com/LightningLion-Studio/.github-private)
